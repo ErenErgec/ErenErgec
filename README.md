@@ -35,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -44,6 +45,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -73,6 +75,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[MARCTOPLU](https://marctoplu.com)** | Full-stack & backend data platform with an async background processing service (TPL, `async/await`) for high-concurrency batch execution, idempotent transaction logic, and PostgreSQL — fully containerized with Docker. | C# · ASP.NET Core 8 · PostgreSQL · Docker |
+| **[Foldcade](https://github.com/ErenErgec/iPhone-Duo-Foldcade)** | A 90s handheld game console for the folding iPhone Duo: twelve original cartridges, a Metal CRT shader, the hinge angle as game input, a fold-aware layout for both displays, chiptune music and StoreKit 2. | Swift 6 · SwiftUI · Metal · StoreKit 2 |
 | **Autonomous Rover Project** | Led an interdisciplinary engineering team building autonomous navigation pipelines, tested in Gazebo simulation. | C++ · Python · ROS2 |
 | **[TravelGenerait](https://travelgenerait.com)** | Full-stack AI travel app with Gemini AI–powered itinerary generation (strict JSON schemas), a multi-tier caching system (in-memory TTL + JSON) for offline use, and RevenueCat monetization. | Flutter · Dart · Gemini AI |
 | **[Personal Website](https://erenergec.com)** | My personal portfolio and blog. | TypeScript · Next.js |
