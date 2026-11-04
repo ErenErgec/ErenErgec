@@ -62,11 +62,10 @@
 **AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-> 🤖 I actively use AI tools (Claude, Gemini, ChatGPT, Antigravity) as part of my development workflow — for pair-programming, debugging, and accelerating research.
+> 🤖 I actively use AI tools (Claude, ChatGPT, Antigravity) as part of my development workflow — for pair-programming, debugging, and accelerating research.
 
 ---
 
