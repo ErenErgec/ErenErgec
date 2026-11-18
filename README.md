@@ -21,7 +21,7 @@
 - 💼 Corporate internship experience in Agile/Scrum environments (CarrefourSA, GoLive IT)
 - 🛠️ Full-stack, backend and mobile development — RESTful APIs, clean architecture, database optimization
 - 📍 Based in Istanbul, Turkey — open to relocation
-- 🚀 Currently building **MARCTOPLU**, a full-stack & backend data platform
+- 🚀 Currently building **[MARCTOPLU](https://github.com/ErenErgec/marctoplu-oss)**, an open-source library cataloging platform (ISBN → MARC 21)
 
 ---
 
@@ -55,6 +55,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -73,7 +74,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[MARCTOPLU](https://marctoplu.com)** | Full-stack & backend data platform with an async background processing service (TPL, `async/await`) for high-concurrency batch execution, idempotent transaction logic, and PostgreSQL — fully containerized with Docker. | C# · ASP.NET Core 8 · PostgreSQL · Docker |
+| **[MARCTOPLU](https://github.com/ErenErgec/marctoplu-oss)** · [live](https://marctoplu.com) | Open-source (AGPL-3.0) bulk ISBN → MARC 21 / MARCXML / Excel / RIS cataloging platform for libraries, with web, API and a barcode-scanning mobile app. An async background worker (TPL, `async/await`, `FOR UPDATE SKIP LOCKED`) runs parallel batch jobs through a Python lookup engine, with idempotent, lock-guarded token and in-app purchase logic on PostgreSQL — fully containerized with Docker and Caddy. | C# · ASP.NET Core 8 · PostgreSQL · Python · Next.js · Flutter · Docker |
 | **[Foldcade](https://github.com/ErenErgec/iPhone-Duo-Foldcade)** | A 90s handheld game console for the folding iPhone Duo: twelve original cartridges, a Metal CRT shader, the hinge angle as game input, a fold-aware layout for both displays, chiptune music and StoreKit 2. | Swift 6 · SwiftUI · Metal · StoreKit 2 |
 | **Autonomous Rover Project** | Led an interdisciplinary engineering team building autonomous navigation pipelines, tested in Gazebo simulation. | C++ · Python · ROS2 |
 | **[TravelGenerait](https://travelgenerait.com)** | Full-stack AI travel app with Gemini AI–powered itinerary generation (strict JSON schemas), a multi-tier caching system (in-memory TTL + JSON) for offline use, and RevenueCat monetization. | Flutter · Dart · Gemini AI |
